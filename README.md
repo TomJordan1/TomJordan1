@@ -7,6 +7,9 @@
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/UNI-Lima%2C%20Per%C3%BA-8B1E3F?style=flat-square&labelColor=202020" />
+</p>
+<p align="center">
   <br>
   <a target="_blank" href="https://www.linkedin.com/in/tomjordanpl/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   &emsp;
