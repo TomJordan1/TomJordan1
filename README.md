@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:8B1E3F,100:202020&height=170&section=header&text=Tom%20P%C3%A9rez&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20%C2%B7%20AI%20%C2%B7%20Cybersecurity&descSize=14&descAlignY=68"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:8B1E3F,100:202020&height=170&section=header&text=JordTom&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20%C2%B7%20AI%20%C2%B7%20Cybersecurity&descSize=14&descAlignY=68"
     width="100%"
     alt="Tom Pérez"
   />
